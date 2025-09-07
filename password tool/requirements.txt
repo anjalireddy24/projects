@@ -1,0 +1,3 @@
+zxcvbn
+nltk
+ # Note: comes pre-installed with Python
